@@ -1,5 +1,5 @@
 # Girasol
-#Código de phyton 
+# Código de phyton 
 # SOY FRANK
 from turtle import*
 import colorsys
